@@ -1,8 +1,9 @@
-ProxyList
+__ProxyList__
+=============
 
-Formats list of proxies from incloak.com for use by proxychains
+_Formats list of proxies from incloak.com for use by proxychains_
 
-ChangeLog
-Added main menu
-Added save option 
+__ChangeLog__
+* Added main menu
+* Added save option 
 
